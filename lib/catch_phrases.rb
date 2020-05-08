@@ -10,3 +10,7 @@ def toadstool
 end
 
 def link
+puts ''
+end
+
+def all_phrases
